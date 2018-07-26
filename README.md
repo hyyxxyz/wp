@@ -1,2 +1,2 @@
-# wp1
+# wp
 wordpress project
